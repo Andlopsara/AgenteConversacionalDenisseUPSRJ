@@ -1,0 +1,2486 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: '3197E43DE37B6E99EAC3EE6DC1EF6357',
+    participant: undefined
+  },
+  messageTimestamp: 1748358551,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d26326a6-98da-4ca4-9414-eaa7f9a07e87',
+  keyword: 'key_18a8d3e2-b30c-4f81-9585-a31ce1144024',
+  answer: '> 👩🏽‍💻 ¡Hola! Soy Denisse, la asistente virtual de la UPSRJ.',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6a86c54e3a154b3829d96fa65a721eb1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3a5e5439-d014-4b0b-84f6-a6c0ed8fb234',
+  keyword: 'ans_d26326a6-98da-4ca4-9414-eaa7f9a07e87',
+  answer: '  Menu ✨📚\n' +
+    '\n' +
+    '1️⃣ Servicios Escolares 🏫📚✨\n' +
+    '2️⃣ Vinculación🔗✨ \n' +
+    '3️⃣ Inglés 🇬🇧🇺🇸📚\n' +
+    '4️⃣ Salir ❌',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9f520d76dec58f1c5cd6375bd501dbd1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8ff22ef8-b4cd-44a2-88d5-0c33e79bed2f',
+  keyword: 'ans_3a5e5439-d014-4b0b-84f6-a6c0ed8fb234',
+  answer: '__capture_only_intended__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f8b4d370a335f10a1d79f0b02632d4e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: '8AC7F923B7D6A5D522337058D9F999CD',
+    participant: undefined
+  },
+  messageTimestamp: 1748358569,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4133d621-b097-4003-98bf-35858ff53f95',
+  keyword: 'key_c35ce999-cccd-4ab9-9d5e-5b33075325a3',
+  answer: '\n' +
+    '  Menu ✨📚\n' +
+    '\n' +
+    '1️⃣ Regresar al menú principal 🏠\n' +
+    '2️⃣ Admisiones 📝🎓\n' +
+    '3️⃣ Reinscripciones 🔄📝\n' +
+    '4️⃣ Emisión de documentos 📄🖨️\n' +
+    '5️⃣ Becas 🎓💰\n' +
+    '6️⃣ Titulación 🎓📜\n' +
+    '7️⃣ Registro y cancelación en el IMSS 🏥📝❌\n' +
+    '8️⃣ Reincorporación 🔄📚\n' +
+    '9️⃣ Salir ❌',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5dde47c9b366e3f2f52813fc629f21a2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214427970642@s.whatsapp.net',
+    fromMe: false,
+    id: '037B304957D054BE9ED4ED349C8E07E7',
+    participant: undefined
+  },
+  messageTimestamp: 1748358996,
+  pushName: 'N',
+  broadcast: false,
+  message: Message {
+    conversation: 'Fede',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Fede',
+  name: 'N',
+  from: '5214427970642',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: '4207E83754EBA3074281F8FCDFCA46E2',
+    participant: undefined
+  },
+  messageTimestamp: 1748359954,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: '2DE8A8F8B0CAA172A9582134D58B66F3',
+    participant: undefined
+  },
+  messageTimestamp: 1748359957,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ce3b5e98-53b9-4254-a46f-e3bba2c30092',
+  keyword: 'key_82067745-f042-4d1f-b5fe-3327ab8a1172',
+  answer: '> Inglés 🇬🇧🇺🇸📚',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'adc9698db7c2c5e185bc44a295191055'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_87bd6af4-a035-4cb5-98cc-6e2a1e54b2cd',
+  keyword: 'ans_ce3b5e98-53b9-4254-a46f-e3bba2c30092',
+  answer: 'Elige una opción:\n' +
+    '1️⃣ Regresar al menú principal 🏠\n' +
+    '2️⃣ Clases Sabatinas 📅\n' +
+    '3️⃣ Certificación ITEP 🏆\n' +
+    '4️⃣ Egresados 🎓\n' +
+    '5️⃣ Salir 🚪',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f2c8b0428ae551cee09024b9a0339826'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_143b5622-5d78-4f99-a1a5-1b8f23eac5d7',
+  keyword: 'ans_87bd6af4-a035-4cb5-98cc-6e2a1e54b2cd',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2b62e213af6910c7f1e9b7ace58c5a8a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214427970642@s.whatsapp.net',
+    fromMe: false,
+    id: 'C05ACFFB0D9F4BE08EB83FF410091FEF',
+    participant: undefined
+  },
+  messageTimestamp: 1748359978,
+  pushName: 'N',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  name: 'N',
+  from: '5214427970642',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d26326a6-98da-4ca4-9414-eaa7f9a07e87',
+  keyword: 'key_18a8d3e2-b30c-4f81-9585-a31ce1144024',
+  answer: '> 👩🏽‍💻 ¡Hola! Soy Denisse, la asistente virtual de la UPSRJ.',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6a86c54e3a154b3829d96fa65a721eb1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3a5e5439-d014-4b0b-84f6-a6c0ed8fb234',
+  keyword: 'ans_d26326a6-98da-4ca4-9414-eaa7f9a07e87',
+  answer: '  Menu ✨📚\n' +
+    '\n' +
+    '1️⃣ Servicios Escolares 🏫📚✨\n' +
+    '2️⃣ Vinculación🔗✨ \n' +
+    '3️⃣ Inglés 🇬🇧🇺🇸📚\n' +
+    '4️⃣ Salir ❌',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9f520d76dec58f1c5cd6375bd501dbd1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8ff22ef8-b4cd-44a2-88d5-0c33e79bed2f',
+  keyword: 'ans_3a5e5439-d014-4b0b-84f6-a6c0ed8fb234',
+  answer: '__capture_only_intended__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f8b4d370a335f10a1d79f0b02632d4e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214411303575@s.whatsapp.net',
+    fromMe: false,
+    id: 'DE9628052A703674BC1DE36859D16DF5',
+    participant: undefined
+  },
+  messageTimestamp: 1748359983,
+  pushName: 'María Luh Hernández 🌺🍃',
+  broadcast: false,
+  message: Message {
+    conversation: 'Raritas bebé',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Raritas bebé',
+  name: 'María Luh Hernández 🌺🍃',
+  from: '5214411303575',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214411303575@s.whatsapp.net',
+    fromMe: false,
+    id: '34B69E45CF990DE9085725C70B1E751A',
+    participant: undefined
+  },
+  messageTimestamp: 1748360003,
+  pushName: 'María Luh Hernández 🌺🍃',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      annotations: [],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/35879024_1770117830581151_3024120218937374269_n.enc?ccb=11-4&oh=01_Q5Aa1gFWeevEdyDNJVIpQNSSpPI05HgPPSM12S3HXdFLc26p1A&oe=685D4D99&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 922,
+      width: 1134,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/35879024_1770117830581151_3024120218937374269_n.enc?ccb=11-4&oh=01_Q5Aa1gFWeevEdyDNJVIpQNSSpPI05HgPPSM12S3HXdFLc26p1A&oe=685D4D99&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__0928ef5b-7057-4771-967a-cfb468b60983',
+  name: 'María Luh Hernández 🌺🍃',
+  from: '5214411303575',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: '0E68F39A911ACB5A79CB47C71F06B00B',
+    participant: undefined
+  },
+  messageTimestamp: 1748360003,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d5de4659-4528-4939-88d5-df843a3b077a',
+  keyword: 'key_e1136b2e-caab-4606-b997-e10245aed37e',
+  answer: '> Clases Sabatinas 🇬🇧\n' +
+    ' \n' +
+    'La información más actualizada de Clases Sabatinas, la puedes ver en: \n' +
+    '  \n' +
+    'https://drive.google.com/drive/folders/1KIK4hhm7TlxLmkc8IUfNc9o2GvvC-L0P?usp=sharing 🆕📄🔍',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a7d421738146295482cf470f32365ebb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_18f41025-b464-42cd-bf0b-d0eaf2112e4d',
+  keyword: 'ans_1f974550-5dc2-4f4d-869e-3aaf94823f48',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd6a3dbc7fe2f82cb7438259500d5b8ca'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_883fc0b7-a780-44e0-849b-4b46ab36c8fe',
+  keyword: 'ans_18f41025-b464-42cd-bf0b-d0eaf2112e4d',
+  answer: 'Por favor, responde ingresando el número de la opción que deseas. ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '14141bd17c4a925ed4822ab876b26404'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2edfb1c7-ece8-440b-b745-eca7d7db4079',
+  keyword: 'ans_883fc0b7-a780-44e0-849b-4b46ab36c8fe',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '456edc0da0785d7f51d29d99b9b124d4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214427970642@s.whatsapp.net',
+    fromMe: false,
+    id: 'C1E0AAD022394D121E77D62EC95E57CE',
+    participant: undefined
+  },
+  messageTimestamp: 1748360007,
+  pushName: 'N',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  name: 'N',
+  from: '5214427970642',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ce3b5e98-53b9-4254-a46f-e3bba2c30092',
+  keyword: 'key_82067745-f042-4d1f-b5fe-3327ab8a1172',
+  answer: '> Inglés 🇬🇧🇺🇸📚',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'adc9698db7c2c5e185bc44a295191055'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_87bd6af4-a035-4cb5-98cc-6e2a1e54b2cd',
+  keyword: 'ans_ce3b5e98-53b9-4254-a46f-e3bba2c30092',
+  answer: 'Elige una opción:\n' +
+    '1️⃣ Regresar al menú principal 🏠\n' +
+    '2️⃣ Clases Sabatinas 📅\n' +
+    '3️⃣ Certificación ITEP 🏆\n' +
+    '4️⃣ Egresados 🎓\n' +
+    '5️⃣ Salir 🚪',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f2c8b0428ae551cee09024b9a0339826'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_143b5622-5d78-4f99-a1a5-1b8f23eac5d7',
+  keyword: 'ans_87bd6af4-a035-4cb5-98cc-6e2a1e54b2cd',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2b62e213af6910c7f1e9b7ace58c5a8a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217442035687@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABAED0B6D28B5DAE2D8',
+    participant: undefined
+  },
+  messageTimestamp: 1748360390,
+  pushName: 'Danielle',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Nah entonces no te creo',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Nah entonces no te creo',
+  name: 'Danielle',
+  from: '5217442035687',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217442035687@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE5D2D1622673BE9B77',
+    participant: undefined
+  },
+  messageTimestamp: 1748360393,
+  pushName: 'Danielle',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Calle', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Calle',
+  name: 'Danielle',
+  from: '5217442035687',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217442035687@s.whatsapp.net',
+    fromMe: false,
+    id: '3A89D7BF4214A9908DA9',
+    participant: undefined
+  },
+  messageTimestamp: 1748360394,
+  pushName: 'Danielle',
+  broadcast: false,
+  message: Message {
+    conversation: 'JAJAJAJA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'JAJAJAJA',
+  name: 'Danielle',
+  from: '5217442035687',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217442035687@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB4290B94F3FDF27E57',
+    participant: undefined
+  },
+  messageTimestamp: 1748360400,
+  pushName: 'Danielle',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    },
+    editedMessage: FutureProofMessage { message: [Message] }
+  },
+  body: '',
+  name: 'Danielle',
+  from: '5217442035687',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217442035687@s.whatsapp.net',
+    fromMe: false,
+    id: '3AABD86E20D43AB1A325',
+    participant: undefined
+  },
+  messageTimestamp: 1748360459,
+  pushName: 'Danielle',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Che loco',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Che loco',
+  name: 'Danielle',
+  from: '5217442035687',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: '572AAE984298BC1667E84CFF45CE21B3',
+    participant: undefined
+  },
+  messageTimestamp: 1748360770,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: 'E0DD6EDFBAFE258EA5F497820777C817',
+    participant: undefined
+  },
+  messageTimestamp: 1748360833,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d599315d-5b56-4405-8718-38574b3df453',
+  keyword: 'key_7a654598-e070-4caf-a979-9641d72ab9bb',
+  answer: '> Certificación ITEP 🇬🇧\n' +
+    '\n' +
+    'La información más actualizada sobre la Certificación ITEP, la puedes ver en: \n' +
+    '  \n' +
+    'https://drive.google.com/drive/folders/1h2M44dp4P1IhJiSVD_SbIIePw4iZGkGk?usp=sharing 🆕📄🔍',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bc4450a959c193f5e2ad31e2698de275'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8ea250db-f655-40e1-9bc1-2f35df80bae3',
+  keyword: 'ans_a6c37b46-4d5d-4e42-b78f-27d2d3927ab5',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd91c44a1e255be1a1045f029a1d6cb62'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7fbd5f16-6c2b-48f3-ac95-9d8d73238df3',
+  keyword: 'ans_8ea250db-f655-40e1-9bc1-2f35df80bae3',
+  answer: 'Por favor, responde ingresando el número de la opción que deseas. ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '11df6e3e277a14be4b55b0764ba8108d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d97603bf-e8c9-4b03-b7fc-be4aebca1b68',
+  keyword: 'ans_7fbd5f16-6c2b-48f3-ac95-9d8d73238df3',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1976824647989b60ad4c6097faf08cc3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: 'A7D83B2B2A14B9F2E87E5228000C6802',
+    participant: undefined
+  },
+  messageTimestamp: 1748360835,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: '2B61C676982ADB900001AFFCF8A92FB4',
+    participant: undefined
+  },
+  messageTimestamp: 1748360842,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: 'E5E15801E6D34A9DDB5EDCDF4A7E51F8',
+    participant: undefined
+  },
+  messageTimestamp: 1748361025,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: 'FC93E58FBFBBEDD1955E70A057C02BD8',
+    participant: undefined
+  },
+  messageTimestamp: 1748361121,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9763aa72-6d3b-490b-a456-76c064847ab1',
+  keyword: 'key_75eef061-d727-4910-ba6a-6241c210a231',
+  answer: '> Vinculación 🔗✨\n' +
+    ' \n' +
+    'Elige una opción:\n' +
+    '\n' +
+    '1️⃣ Regresar al menú principal 🏠\n' +
+    '2️⃣ Convocatoria 📄\n' +
+    '3️⃣ Carreras 🎓\n' +
+    '4️⃣ Contactar asesor académico 📞\n' +
+    '5️⃣ Salir 🚪',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3d4ccdd9cc9b152397afb4fa286c3bf0'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: '91E703FBDE0A528AF4804D69E0102008',
+    participant: undefined
+  },
+  messageTimestamp: 1748361124,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_05336247-d1aa-4bf5-92d2-e08cd590aa8e',
+  keyword: 'key_773c7d74-14f5-4991-8116-d76683056ce7',
+  answer: '> Convocatoria 📄',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3175f47280bb4fcc7ebbaabf7689ea45'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dccf4291-bf61-4045-aa1c-4cd230f51282',
+  keyword: 'ans_05336247-d1aa-4bf5-92d2-e08cd590aa8e',
+  answer: 'Para más información sobre la convocatoria, visita: 🆕📄🔍\n' +
+    'https://upsrj.edu.mx/admision/',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1cff852c941960b6fdc8db87ef6630ce'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_be1771d3-a4be-4e26-89ee-7bf6c1f07991',
+  keyword: 'ans_dccf4291-bf61-4045-aa1c-4cd230f51282',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '50f5d962a62de4493d741a4b2b8ba18c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6f00f55b-2351-42e2-b9d7-7761ec63cb74',
+  keyword: 'ans_cf2b9a4e-23e7-4efe-a081-dd6c5a3c8af5',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b2fc2e2fdb346aa7fb3f4265d5f946c0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_72f16d85-2d85-4672-988b-30c2efc4e802',
+  keyword: 'ans_6f00f55b-2351-42e2-b9d7-7761ec63cb74',
+  answer: 'Por favor, responde ingresando el número de la opción que deseas. ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '024b58cf3788c37580bfdea190d41a92'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d474910d-3ee8-4d84-a609-fffb39f28a06',
+  keyword: 'ans_72f16d85-2d85-4672-988b-30c2efc4e802',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9a177473955cd174a21de78d530898aa'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: '22C11EC54D94BBD0DBB54D53AFAF81F7',
+    participant: undefined
+  },
+  messageTimestamp: 1748361132,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: 'EA48E14754B10D1B985C6A4B213FB6ED',
+    participant: undefined
+  },
+  messageTimestamp: 1748361134,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_57aedee5-95ee-48d2-b32f-7752eedc2741',
+  keyword: 'key_441892aa-abab-4b17-878b-bf1fb6c6b28d',
+  answer: '> ¿Qué carrera le interesa? 🎓\n' +
+    ' \n' +
+    '1️⃣ Regresar al menú principal 🏠\n' +
+    '2️⃣ Ingeniería en Animación y Efectos Visuales 🎥\n' +
+    '3️⃣ Ingeniería en Metrología Industrial 📏\n' +
+    '4️⃣ Ingeniería en Robótica Computacional 🤖\n' +
+    '5️⃣ Ingeniería en Software 💻\n' +
+    '6️⃣ Ingeniería en Sistemas Automotrices 🚗\n' +
+    '7️⃣ Terapia Física 💪\n' +
+    '8️⃣ Salir 🚪',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b7310934cf62c0466863354d1427b65a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: 'A12F0AC8F24BE6F161A04A17232F61CE',
+    participant: undefined
+  },
+  messageTimestamp: 1748361139,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c7249b33-0b7f-4f1c-92f3-4d8fe5f7d6eb',
+  keyword: 'key_5799e22b-78e1-4457-8dae-8c8acae67a6f',
+  answer: '> Ingeniería en Animación y Efectos Visuales 🎓',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f06407493f30625ba4dff20b122a7eb0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_53aab143-b788-48ba-aca8-49fe8fe326a9',
+  keyword: 'ans_c7249b33-0b7f-4f1c-92f3-4d8fe5f7d6eb',
+  answer: 'La información más actualizada la puedes ver en nuestro drive, te dejo el link coyote : https://drive.google.com/drive/folders/14EbJIKNEFwEi7C18xCTyfRviZS-Vxoy5?usp=sharing  🆕📄🔍',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '523c8ccd793d522fdac0e5577b452ac8'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b9aaebd7-e839-47cd-bc86-4a98a926c06c',
+  keyword: 'ans_53aab143-b788-48ba-aca8-49fe8fe326a9',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '289a81469c2c9d10661e65edf876eb61'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fad1bd5b-fe37-44ec-993d-50b59fb1bd65',
+  keyword: 'ans_b9aaebd7-e839-47cd-bc86-4a98a926c06c',
+  answer: 'un minuto...tenemos una sorpresa para ti🎉✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cc2a47466eb3934933f1f07cf19e3384'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_069a943b-3e67-4217-b37e-030f65110055',
+  keyword: 'ans_fad1bd5b-fe37-44ec-993d-50b59fb1bd65',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9ce45b96e798d7c8af11c140d7eafff0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e8f4d561-5c41-4482-bca0-5c7c460a2478',
+  keyword: 'ans_069a943b-3e67-4217-b37e-030f65110055',
+  answer: 'puedes vivir la experiencia Coyote en nuestras redes:🐺 \n' +
+    '> Facebook: https://www.facebook.com/UPSRJ 🐺🎓\n' +
+    '> Instagram: https://www.instagram.com/coyotesupsrj/ 🐺',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '88c30d02803cc3540d197ff8995b6120'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2b14c9c8-8784-42d4-8549-2b63a4ec88f7',
+  keyword: 'ans_e8f4d561-5c41-4482-bca0-5c7c460a2478',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a9c47b28953fb11987bf0ac6f153b65c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_71339275-c129-45d8-9742-41c01417d74f',
+  keyword: 'ans_f8d40b70-39bf-4cbb-9ca2-b5b26e6f3d9c',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '67a0ace3af7335baa90fbb2453e801ed'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0913d79d-ca81-4965-aacc-f16b47968ae1',
+  keyword: 'ans_71339275-c129-45d8-9742-41c01417d74f',
+  answer: 'Por favor, responde ingresando el número de la opción que deseas. ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c7ac362903b242f54a7ec24b82c0edbf'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d3a0424f-2fdd-4bd7-a184-fc7f98d4c507',
+  keyword: 'ans_0913d79d-ca81-4965-aacc-f16b47968ae1',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '40e6530fe26b70c4a1f5040cdf4b75bb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217442035687@s.whatsapp.net',
+    fromMe: false,
+    id: '3A452FFCA9D9BE17E506',
+    participant: undefined
+  },
+  messageTimestamp: 1748361216,
+  pushName: 'Danielle',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/23802603_1634531363878540_4538106376535206200_n.enc?ccb=11-4&oh=01_Q5Aa1gEZvVt-KzeE4GFbggj2nOZanqRtW7ROhl0O6uexcBH1TQ&oe=685D5C16&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/23802603_1634531363878540_4538106376535206200_n.enc?ccb=11-4&oh=01_Q5Aa1gEZvVt-KzeE4GFbggj2nOZanqRtW7ROhl0O6uexcBH1TQ&oe=685D5C16&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false,
+      isAiSticker: false,
+      isLottie: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__f39d3b41-42ad-409f-aab0-bb0a63f0700a',
+  name: 'Danielle',
+  from: '5217442035687',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'B2930360FB2E1AE145',
+    participant: undefined
+  },
+  messageTimestamp: 1748361440,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: '¡Hola soy Demo Bot 🔔! Soy tu asistente virtual personalizado.\r\n' +
+      '\t\t\t\r\n' +
+      'Estoy aquí para ayudarte a resolver tus preguntas más frecuentes con la administración de la Hacienda El Campanario.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  status: 4,
+  body: '¡Hola soy Demo Bot 🔔! Soy tu asistente virtual personalizado.\r\n' +
+    '\t\t\t\r\n' +
+    'Estoy aquí para ayudarte a resolver tus preguntas más frecuentes con la administración de la Hacienda El Campanario.',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d26326a6-98da-4ca4-9414-eaa7f9a07e87',
+  keyword: 'key_18a8d3e2-b30c-4f81-9585-a31ce1144024',
+  answer: '> 👩🏽‍💻 ¡Hola! Soy Denisse, la asistente virtual de la UPSRJ.',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6a86c54e3a154b3829d96fa65a721eb1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '586CAD81A8D2B1218A',
+    participant: undefined
+  },
+  messageTimestamp: 1748361440,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3a5e5439-d014-4b0b-84f6-a6c0ed8fb234',
+  keyword: 'ans_d26326a6-98da-4ca4-9414-eaa7f9a07e87',
+  answer: '  Menu ✨📚\n' +
+    '\n' +
+    '1️⃣ Servicios Escolares 🏫📚✨\n' +
+    '2️⃣ Vinculación🔗✨ \n' +
+    '3️⃣ Inglés 🇬🇧🇺🇸📚\n' +
+    '4️⃣ Salir ❌',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9f520d76dec58f1c5cd6375bd501dbd1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8ff22ef8-b4cd-44a2-88d5-0c33e79bed2f',
+  keyword: 'ans_3a5e5439-d014-4b0b-84f6-a6c0ed8fb234',
+  answer: '__capture_only_intended__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '6f8b4d370a335f10a1d79f0b02632d4e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '08C1889CEDF75836B2',
+    participant: undefined
+  },
+  messageTimestamp: 1748361445,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'FB7B65326B5BEA1BA6',
+    participant: undefined
+  },
+  messageTimestamp: 1748361445,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'FE1900D5AB10C8EB4E',
+    participant: undefined
+  },
+  messageTimestamp: 1748361447,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '5BEFB7A01A5B0ACE0C',
+    participant: undefined
+  },
+  messageTimestamp: 1748361447,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'C787471ADFDD5E0966',
+    participant: undefined
+  },
+  messageTimestamp: 1748361449,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'E814AAA4D2CC1C6F79',
+    participant: undefined
+  },
+  messageTimestamp: 1748361450,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '7D9AAD9AC06BF9BC82',
+    participant: undefined
+  },
+  messageTimestamp: 1748361451,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'B820AE99FBCBEC7389',
+    participant: undefined
+  },
+  messageTimestamp: 1748361452,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '7E5E64706BB3A04DEF',
+    participant: undefined
+  },
+  messageTimestamp: 1748361453,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  status: 4,
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '3B72277D59B8ED1D49',
+    participant: undefined
+  },
+  messageTimestamp: 1748361454,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'F2C384E7A34A6A442F',
+    participant: undefined
+  },
+  messageTimestamp: 1748361455,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '777889BFCEBBC5662D',
+    participant: undefined
+  },
+  messageTimestamp: 1748361456,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '5390B414ACC28FE525',
+    participant: undefined
+  },
+  messageTimestamp: 1748361458,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  status: 4,
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'EB8DF39BCCE36B29E2',
+    participant: undefined
+  },
+  messageTimestamp: 1748361460,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '5CACD2E5D853B7DD85',
+    participant: undefined
+  },
+  messageTimestamp: 1748361461,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '9325EAC50EADEE72DB',
+    participant: undefined
+  },
+  messageTimestamp: 1748361463,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  status: 4,
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'B77158CA829734EEE5',
+    participant: undefined
+  },
+  messageTimestamp: 1748361465,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '6D15B9C98E7836C833',
+    participant: undefined
+  },
+  messageTimestamp: 1748361468,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  status: 4,
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '91AA3FF46E51CEF60E',
+    participant: undefined
+  },
+  messageTimestamp: 1748361470,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '0218BA95EB4C2D214A',
+    participant: undefined
+  },
+  messageTimestamp: 1748361473,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  status: 4,
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'A302290307488D9A2C',
+    participant: undefined
+  },
+  messageTimestamp: 1748361474,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '1B34FEB8663D9F5BC0',
+    participant: undefined
+  },
+  messageTimestamp: 1748361479,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  status: 4,
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '4D6E24491282EA98BE',
+    participant: undefined
+  },
+  messageTimestamp: 1748361481,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '0C7CB8DC3720F80AA7',
+    participant: undefined
+  },
+  messageTimestamp: 1748361484,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'CA7C5D9478A6BF0A7A',
+    participant: undefined
+  },
+  messageTimestamp: 1748361485,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '64942DA48C4765743D',
+    participant: undefined
+  },
+  messageTimestamp: 1748361488,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  status: 4,
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '9E2E4BC27233C62958',
+    participant: undefined
+  },
+  messageTimestamp: 1748361490,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '4E7C1F8E2BE88F5918',
+    participant: undefined
+  },
+  messageTimestamp: 1748361494,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '4E6F7F8FA624B0A031',
+    participant: undefined
+  },
+  messageTimestamp: 1748361496,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '16B8C9A86883EFF3B5',
+    participant: undefined
+  },
+  messageTimestamp: 1748361499,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  status: 4,
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '38C0B5439BB22BDDD7',
+    participant: undefined
+  },
+  messageTimestamp: 1748361500,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: 'B587FE11AD4CDFFA91',
+    participant: undefined
+  },
+  messageTimestamp: 1748361504,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '2976207F11C31712CD',
+    participant: undefined
+  },
+  messageTimestamp: 1748361506,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '61B28BF5DC92B6F9F1',
+    participant: undefined
+  },
+  messageTimestamp: 1748361508,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  status: 4,
+  body: 'Lo siento no entendí 😞, por favor selecciona una opción de la siguiente lista 👇',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214426445953@s.whatsapp.net',
+    fromMe: false,
+    id: '54EAD2BB58EB802286',
+    participant: undefined
+  },
+  messageTimestamp: 1748361512,
+  pushName: '5214426445953',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    listMessage: ListMessage {
+      sections: [Array],
+      title: 'Menú principal',
+      description: 'A continuación te comparto nuestro menú:',
+      buttonText: 'Opciones',
+      listType: 1
+    }
+  },
+  verifiedBizName: 'Chatbot Uteq',
+  body: '',
+  name: '5214426445953',
+  from: '5214426445953',
+  host: '5214462995917'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214461088065@s.whatsapp.net',
+    fromMe: false,
+    id: 'C07B5AB5CC45D010D421D6AD8421AE5C',
+    participant: undefined
+  },
+  messageTimestamp: 1748361526,
+  pushName: 'Andrea López',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '',
+  name: 'Andrea López',
+  from: '5214461088065',
+  host: '5214462995917'
+}

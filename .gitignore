@@ -1,0 +1,12 @@
+dist/*
+node_modules
+bot_sessions
+assets
+
+
+*_sessions
+*tokens
+.wwebjs*
+
+*.log
+*qr.png
