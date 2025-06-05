@@ -26,7 +26,7 @@ Para instalar el proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/KirbyMondragon/9no-Cuatrimestre-Bot.git
+    git clone https://github.com/Andlopsara/AgenteConversacionalDenisseUPSRJ.git
     ```
 2. Usa este comando para instalar
     ```sh
