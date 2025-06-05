@@ -45,7 +45,10 @@ Para instalar el proyecto, sigue estos pasos:
     ```sh
     pnpm run dev
     ```
-
+5.  Asegúrate también de tener instalado el parser para ESLint:
+    ```sh
+   pnpm add -D @typescript-eslint/parser
+    ```
 <div align="center">
     <picture align="center">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
