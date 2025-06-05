@@ -34,7 +34,7 @@ Para instalar el proyecto, sigue estos pasos:
     ```
 3. Navega al directorio del proyecto:
     ```sh
-    cd base-ts-baileys-memory
+    cd base-ts-baileys-mongo
     ```
 
 3. Instalar las dependencias:
