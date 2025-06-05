@@ -45,15 +45,6 @@ Para instalar el proyecto, sigue estos pasos:
     ```sh
     pnpm run dev
     ```
-5.  Asegúrate también de tener instalado el parser para ESLint:
-    ```sh
-   pnpm add -D @typescript-eslint/parser
-    ```
-6.  Vuelve a probar y despues vuelvelo a correr 
-    ```sh
- 	pnpm run lint
-	pnpm run dev
-    ```
 
 <div align="center">
     <picture align="center">
